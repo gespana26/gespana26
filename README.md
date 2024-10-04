@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Gustavo España</h1>
+<h3 align="center">A passionate backend developer from Colombia</h3>
 
-<!--
-**gespana26/gespana26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Data Analists**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://github.com/gespana26?tab=projects](https://github.com/gespana26?tab=projects)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Python, Oracle Database, Pandas, Seaborn**
+
+- 📫 How to reach me **gespana26@gmail.com**
+
+- 📄 Know about my experiences [I am a certified Full Stack Developer, with more than 20 years of experience in project management, planning and customer service. At Multibanco Payment Point, I led more than 35 successful projects with agile methodologies, optimizing processes and reducing deviations by 25%. My experience at the District Institute of Risk and Climate Change Management allowed me to stabilize and update Oracle Onpremise infrastructures, as well as perform migration of On-premise DBs with Solaris OS to Oracle Cloud on Oracle Linux, improving performance and ensuring operational continuity . At the District Secretariat of Economic Development, I optimized technological platforms and improved the efficiency of databases. At SEAQ SERVICIOS SAS, I increased customer satisfaction and reduced operating costs through effective resource management. As a consultant at DB-System LTDA, I implemented innovative solutions with Open Source Always in search of continuous learning, I have updated myself in software development to face challenges in the Full Stack field. I am committed to developing creative solutions that improve the efficiency of systems and the customer experience, standing out for my leadership and responsibility.](I am a certified Full Stack Developer, with more than 20 years of experience in project management, planning and customer service. At Multibanco Payment Point, I led more than 35 successful projects with agile methodologies, optimizing processes and reducing deviations by 25%. My experience at the District Institute of Risk and Climate Change Management allowed me to stabilize and update Oracle Onpremise infrastructures, as well as perform migration of On-premise DBs with Solaris OS to Oracle Cloud on Oracle Linux, improving performance and ensuring operational continuity . At the District Secretariat of Economic Development, I optimized technological platforms and improved the efficiency of databases. At SEAQ SERVICIOS SAS, I increased customer satisfaction and reduced operating costs through effective resource management. As a consultant at DB-System LTDA, I implemented innovative solutions with Open Source Always in search of continuous learning, I have updated myself in software development to face challenges in the Full Stack field. I am committed to developing creative solutions that improve the efficiency of systems and the customer experience, standing out for my leadership and responsibility.)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
